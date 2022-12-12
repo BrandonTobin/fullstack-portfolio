@@ -1,14 +1,26 @@
 [
   {
-    "name": "project1",
-    "live": "https://app.herokuapp.com/whatever",
-    "git": "http://www.github.com/username/reponame",
-    "image": "http://www.imgur.com/pictureofproject.png"
+    "name": "Memory Matcher",
+    "live": "https://brandontobin.github.io/Project_1/",
+    "git": "https://github.com/BrandonTobin/Project_1",
+    "image": "https://github.com/BrandonTobin/Project_1/raw/main/images/Screen%20Shot%202022-11-21%20at%207.56.36%20AM.png"
   },
   {
-    "name": "project2",
-    "live": "https://app.netlify.app/whatever",
-    "git": "http://www.github.com/username/reponame",
-    "image": "http://www.imgur.com/pictureofproject.png"
+    "name": "Disney Characters",
+    "live": "https://lucent-cannoli-76de25.netlify.app/",
+    "git": "https://github.com/CagdasKalsen/project2",
+    "image": "https://featuredanimation.com/wp-content/uploads/2022/10/Popular-Disney-Characters.jpg"
+  },
+  {
+    "name": "Project 3",
+    "live": "",
+    "git": "",
+    "image": ""
+  },
+  {
+    "name": "Project 4",
+    "live": "",
+    "git": "",
+    "image": ""
   }
 ]
